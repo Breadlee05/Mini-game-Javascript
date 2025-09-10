@@ -1,4 +1,4 @@
-#  Rock Paper Scissors – Mini JavaScript Game
+#   Mini game JavaScript 
 
 A simple browser-based Rock-Paper-Scissors game created using vanilla JavaScript. The game runs on page load and interacts with the user via prompt and confirm dialogs.
 
